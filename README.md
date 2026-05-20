@@ -23,6 +23,13 @@ singing screen, score screen, party mode, jukebox, editor, and popups.
 ### Neon
 <img width="400" height="250" alt="Screenshot_2026-05-16_00-24-39" src="https://github.com/user-attachments/assets/fe7eb656-2ed2-4b44-bcf9-08f944712ee5" />
 
+### Clarity
+<img width="400" height="250" alt="screenshot0002" src="https://github.com/user-attachments/assets/7d8d2ecd-cfd8-44bf-ad39-89e5364a8b40" />
+<img width="400" height="250" alt="screenshot0004" src="https://github.com/user-attachments/assets/76ae7fcf-34ed-433e-af33-3fd02986afc2" />
+<img width="400" height="250" alt="screenshot0006" src="https://github.com/user-attachments/assets/08d56bba-ae32-4a5c-b505-a3c68e1bb72a" />
+<img width="400" height="250" alt="screenshot0008" src="https://github.com/user-attachments/assets/98d540cf-d5b2-4f1f-862f-3f596d0cd87f" />
+<img width="400" height="250" alt="screenshot0010" src="https://github.com/user-attachments/assets/13e23c64-d0dc-41ae-a15a-8f50d5b1162a" />
+<img width="400" height="250" alt="screenshot0012" src="https://github.com/user-attachments/assets/fb65442b-15f7-424a-91bd-97ed098d6fcb" />
 
 ### WorldPartyArgon
 <img width="400" height="250" alt="screenshot0008" src="https://github.com/user-attachments/assets/468fe802-eb82-40aa-8d91-8bcdf10527eb" />
